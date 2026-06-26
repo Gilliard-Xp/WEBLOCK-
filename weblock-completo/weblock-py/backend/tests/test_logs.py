@@ -1,4 +1,4 @@
-"""Testes da consulta de logs de auditoria."""
+"""Testes da consulta de logs de auditoria.""" 
 
 
 def test_listar_logs_retorna_paginado(client, admin_headers):
